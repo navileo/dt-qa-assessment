@@ -37,3 +37,7 @@ jobs:
           cat playwright.config.js
 
       - name: Upload test structure
+        uses: actions/upload-artifact@v3
+        with:
+          name: test-files
+          path: tests/
