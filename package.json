@@ -1,0 +1,24 @@
+{
+  "name": "dt-qa-assessment",
+  "version": "1.0.0",
+  "description": "<H1 align =\"center\" > MERN EMPLOYEE SALARY MANAGEMENT </h1>\r <h5  align =\"center\">\r Fullstack open source employee salary management application made with MySql, Express, React & Nodejs (MERN) </h5>\r <br/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navileo/dt-qa-assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/navileo/dt-qa-assessment/issues"
+  },
+  "homepage": "https://github.com/navileo/dt-qa-assessment#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.0"
+  }
+}
